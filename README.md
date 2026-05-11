@@ -2,7 +2,8 @@
 This is a simple and practical command-line Python application that helps users track their income and expenses, analyze  spending habits, and manage personal finances more effectively.
 
 ## Description
-This project was developed to solve a real-world need: managing daily persoanal finances.
+Managing personal finances is a challenge many people face daily but most tools are either too complex or don't fit individual needs.
+This project was developed to help in managing daily persoanal finances.
 It allows users to:
 . Record their income and expenses
 . View a running balance and;
