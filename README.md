@@ -58,8 +58,3 @@ Implement data visualization using libraries like Plotly to generate interactive
 3. Web-Interface with FastAPI
 Develop a web interface using a framework like FastAPI 
 
-## 🤖 AI Assistance
-I used AI to:
-- Debug and correct my code
-- Understand errors and fix error messages in my code
-- Learn how the structure should look and why certain things go wrong
